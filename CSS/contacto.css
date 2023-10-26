@@ -59,7 +59,7 @@
     font-size: 20px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 450px) {
     .section5{
    
         display: flex;

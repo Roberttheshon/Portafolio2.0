@@ -55,7 +55,7 @@
 
 
 /* Responsive */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 450px) {
 
     .sobreMi_info{
         display: flex;
