@@ -10,10 +10,10 @@ footer{
     text-align: center;
 }
 
-@media screen and (max-width: 450px){
+@media screen and (max-width: 700px){
 
     footer{
-        width: 100%;
+        
     }
     
 }

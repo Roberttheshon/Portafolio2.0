@@ -59,7 +59,7 @@
     font-size: 20px;
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 700px) {
     .section5{
    
         display: flex;
@@ -69,7 +69,7 @@
         padding:  50px 0;
         margin-top:150px;
         margin: 0;
-        width: 100%;
+        
     }
 
     .container_contacto{
