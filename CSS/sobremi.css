@@ -36,7 +36,7 @@
 .Yo{
     width: 80px;
     position: absolute;
-    top: 820px;
+    top: 750px;
     right: 1000px;
 }
 
@@ -93,7 +93,7 @@
     .Yo{
         width: 100px;
         position: absolute;
-        top: 1100px;
+        top: 900px;
         right: 150px;
     }
 }
