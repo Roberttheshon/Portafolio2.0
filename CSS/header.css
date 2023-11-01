@@ -59,14 +59,13 @@ li{
         align-items: center;
         flex-wrap: wrap;
         text-align: center;
-        
-        
+        padding: 0px 10px;
     }
     
     .link_menu{
         font-size: 15px;
         list-style: none;
-        padding: 15px 15px;
+        padding: 20px 15px;
         align-items: center;
         text-decoration: none;
         
@@ -82,6 +81,7 @@ li{
         padding: 4px;
         color: aqua;
         font-size: 15px;
+        margin: 0 5px;
     }
 
 }
