@@ -44,6 +44,14 @@
     box-shadow: 0px 8px 8px -6px rgba(91, 91, 91, 0.733);
 
 }
+.link_proyecto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    flex-wrap: wrap;
+    color: black; 
+}
 
 .containerN_T{
     
