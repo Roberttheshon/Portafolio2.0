@@ -17,9 +17,6 @@ header{
 ul{
     display: flex;
     align-items: center;
-    
-
-   
 }
 
 li{
@@ -61,13 +58,13 @@ li{
         align-items: center;
         flex-wrap: wrap;
         text-align: center;
-        padding: 0px 10px;
+        padding: 0px 15px;
     }
     
     .link_menu{
         font-size: 15px;
         list-style: none;
-        padding: 20px 15px;
+        padding: 20px 20px;
         align-items: center;
         text-decoration: none;
         
@@ -83,8 +80,12 @@ li{
         padding: 4px;
         color: rgb(255, 217, 0);
         font-size: 15px;
-        margin: 0 ;
+        margin: 0 10px;
        
+    }
+    .cont_contc{
+        margin: 0 10px;
+        padding-top: 18px;
     }
 
 }

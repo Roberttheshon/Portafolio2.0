@@ -12,11 +12,11 @@
 .sobreMi_info{
     display: flex;
     align-items: center;
-    padding: 15px;
+    padding: 25px;
     border: 1px solid rgb(197, 197, 197);
     border-radius: 9px;
     flex-direction: column;
-
+    width: 30%;
      background-image: repeating-linear-gradient(173deg, rgb(242,241,240) 0px, rgb(242,241,240) 31px,transparent 31px, transparent 35px),repeating-linear-gradient(137deg, rgb(242,241,240) 0px,
      rgb(242,241,240) 31px,transparent 31px, transparent 35px),repeating-linear-gradient(47deg, rgb(242,241,240) 0px, rgb(242,241,240) 31px,transparent 31px, transparent 35px),repeating-linear-gradient(99deg, rgb(242,241,240) 0px, rgb(242,241,240) 31px,transparent 31px, transparent 35px),linear-gradient(90deg, rgb(102,102,102),rgb(151,151,151));
   
@@ -35,6 +35,8 @@
 .info_sobreMi{
     color: rgb(8, 8, 8);
     font-family: 'Raleway', sans-serif;
+    text-align: justify;
+    
 }
 .Yo{
     width: 80px;
@@ -61,7 +63,7 @@
 @media screen and (max-width: 700px) {
 
     .section2{
-        margin-top: 70px;
+        margin-top: 20px;
         padding: 100px 0;
         display: flex;
         align-items: center;
@@ -73,6 +75,7 @@
 
     .sobreMi_info{
         display: flex;
+        align-items: center;
         padding: 15px;
         border: 1px solid rgb(197, 197, 197);
         border-radius: 9px;
@@ -82,22 +85,22 @@
         width: 300px;
         margin-top: 80px;
         
+        
     }
 
     .info_sobreMi{
         color: rgb(8, 8, 8);
         font-family: 'Raleway', sans-serif;
-        font-size: 18px;
+        font-size: 16px;
         text-align: justify;
+        
     }
 
 
 
     .Yo{
         width: 100px;
-        position: absolute;
-        top: 900px;
-        right: 150px;
+        
     }
 }
 
