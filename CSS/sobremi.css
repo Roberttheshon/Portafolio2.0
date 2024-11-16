@@ -12,7 +12,7 @@
 .sobreMi_info{
     display: flex;
     align-items: center;
-    padding: 25px;
+    padding: 45px;
     border: 1px solid rgb(197, 197, 197);
     border-radius: 9px;
     flex-direction: column;
@@ -26,6 +26,7 @@
 .titulo_sobreMi{
     color: rgb(10, 10, 10);
     display: flex;
+    font-size: 20px;
     justify-content: center;
     align-items: center;
     flex-direction: column;
